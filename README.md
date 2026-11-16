@@ -1,202 +1,178 @@
-# ⚡ SYSTEM INITIALIZING...
+ 
+<!--
+  ╔══════════════════════════════════════════════════════╗
+  ║             SYSTEM INITIALIZED // 2026              ║
+  ║                  EDUARDA FERNANDES                  ║
+  ╚══════════════════════════════════════════════════════╝
+-->
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,100:06B6D4&height=200&section=header&text=EDUARDA%20FERNANDES&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20TECH%20%7C%20INNOVATION&descSize=13&descAlignY=58](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,40:0F172A,100:06B6D4\&height=200\&section=header\&text=EDUARDA%20FERNANDES\&fontSize=38\&fontColor=00E5FF\&animation=fadeIn\&fontAlignY=38\&desc=SOFTWARE%20ENGINEERING%20%7C%20TECH%20%7C%20INNOVATION\&descSize=13\&descAlignY=58)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0A192F,100:00D9FF&text=EDUARDA%20FERNANDES&fontColor=00E5FF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20TECH%20%7C%20INNOVATION&descAlignY=60&descSize=13&animation=fadeIn"/>
 
-\<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;Software+Engineering+Student;Python+%7C+HTML+%7C+CSS+%7C+SQL+%7C+Power+BI;Building+ideas+into+technology;Learning.+Creating.+Evolving](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=17\&duration=3000\&pause=1000\&color=00E5FF\&center=true\&vCenter=true\&width=600\&lines=SYSTEM+ONLINE...;Software+Engineering+Student;Python+%7C+HTML+%7C+CSS+%7C+SQL+%7C+Power+BI;Building+ideas+into+technology;Learning.+Creating.+Evolving)." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System+Initializing...;Welcome+to+my+digital+universe;Software+Engineering+Student;Building+ideas+into+technology;Learning.+Creating.+Evolving." alt="Typing SVG"/>
 
-\<br>
+<br>
 
-\<img src="[https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge\&logo=statuspage\&logoColor=black)"/> \<img src="[https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-7C3AED?style=for-the-badge](https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-7C3AED?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/LOCATION-BRAZIL-06B6D4?style=for-the-badge](https://img.shields.io/badge/LOCATION-BRAZIL-06B6D4?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=black"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-111827?style=for-the-badge&logo=googleearth&logoColor=00E5FF"/>
 
-\</div>
-
----
-
-## ◈ 01. ABOUT ME | SOBRE MIM
-
-```yaml
-IDENTITY:
-  name: Eduarda Fernandes
-  username: eduardamansa
-  role: Software Engineering Student
-  university: UNICID
-  location: São Paulo, Brazil
-
-INTERESTS:
-  - Software Development
-  - Database Modeling
-  - Front-End Development
-  - Business Intelligence
-  - UI/UX Design
-  - Technology & Innovation
-
-CURRENT_MISSION:
-  "Transform knowledge into practical solutions."
-
-STATUS: Constantly Learning
-```
-
-Sou estudante de **Engenharia de Software** e estou construindo minha trajetória na tecnologia, explorando diferentes áreas do desenvolvimento e buscando transformar ideias em soluções que façam sentido na prática.
-
-Minha jornada envolve programação, banco de dados, desenvolvimento de sistemas e análise de dados.
-
-Tenho interesse em entender como as tecnologias funcionam, experimentar novas ferramentas e desenvolver projetos que conectem inovação e necessidades reais.
-
-Acredito que cada projeto é uma oportunidade de aprender algo novo, evoluir e construir algo melhor do que antes.
+</div>
 
 ---
 
-## ◈ 02. TECH STACK | TECNOLOGIAS
+## `01 // ABOUT ME`
 
-\<div align="center">
+<img align="right" width="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-### PROGRAMMING & WEB DEVELOPMENT
+Olá! Sou **Eduarda Fernandes**, estudante de Engenharia de Software e entusiasta da tecnologia, inovação e desenvolvimento de soluções digitais.
 
-\<img src="[https://skillicons.dev/icons?i=python,html,css&theme=dark](https://skillicons.dev/icons?i=python,html,css\&theme=dark)"/>
+Atualmente, estou construindo minha trajetória na área de Tecnologia da Informação, explorando diferentes possibilidades dentro do desenvolvimento de software, análise de dados e soluções inteligentes.
 
-### DATABASE & DATA
+Minha experiência profissional na área administrativa também contribui para minha visão sobre organização, processos e resolução de problemas.
 
-\<img src="[https://skillicons.dev/icons?i=mysql&theme=dark](https://skillicons.dev/icons?i=mysql\&theme=dark)"/>
+Acredito que a tecnologia vai além de escrever códigos: é transformar ideias em soluções que fazem a diferença.
 
-\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/>
-
-### DEVELOPMENT TOOLS
-
-\<img src="[https://skillicons.dev/icons?i=vscode,github,git,figma,linux&theme=dark](https://skillicons.dev/icons?i=vscode,github,git,figma,linux\&theme=dark)"/>
-
-\</div>
+<br clear="right"/>
 
 ---
 
-## ◈ 03. DEVELOPMENT ENVIRONMENT | FERRAMENTAS
+## `02 // TECH STACK`
 
-| TOOL     | APPLICATION             |
-| :------- | :---------------------- |
-| VS Code  | Development environment |
-| Git      | Version control         |
-| GitHub   | Project management      |
-| Figma    | UI/UX prototyping       |
-| MySQL    | Database studies        |
-| Power BI | Data visualization      |
-| Canva    | Visual presentations    |
+<div align="center">
 
----
+### PROGRAMMING LANGUAGES
 
-## ◈ 04. FEATURED PROJECT | PROJETO EM DESTAQUE
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark"/>
 
-\<div align="center">
+### DATABASE & DATA ANALYTICS
 
-\<a href="[https://github.com/eduardamansa?tab=repositories](https://github.com/eduardamansa?tab=repositories)">
-\<img src="[https://img.shields.io/badge/PROJECT-CONNECTA%2B-00E5FF?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/PROJECT-CONNECTA%2B-00E5FF?style=for-the-badge\&logo=github\&logoColor=black)"/>
-\</a>
+<img src="https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-\</div>
+### TOOLS & TECHNOLOGIES
 
-### ◈ CONECTA+ | Web Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
 
-Projeto acadêmico de desenvolvimento web com a proposta de criar uma plataforma de conexões e inclusão entre pessoas com e sem deficiência.
-
-O projeto busca unir tecnologia, acessibilidade e experiência do usuário em um ambiente digital inclusivo.
-
-**Technologies & Concepts:**
-
-- HTML
-- CSS
-- UX/UI Design
-- Accessibility
-- Web Development
-
-\<a href="[https://github.com/eduardamansa?tab=repositories](https://github.com/eduardamansa?tab=repositories)">Explore my repositories →\</a>
+</div>
 
 ---
 
-## ◈ 05. CURRENT OBJECTIVES | SYSTEM TERMINAL
+## `03 // DEVELOPMENT ENVIRONMENT`
 
 ```bash
-┌──[EDUARDA@DEVELOPMENT]─[~/objectives]
-│
-├── [01] Improve Python programming
-├── [02] Develop SQL and database skills
-├── [03] Explore Front-End development
-├── [04] Learn Back-End fundamentals
-├── [05] Improve UI/UX prototyping
-├── [06] Expand Power BI knowledge
-├── [07] Build practical technology projects
-├── [08] Expand Git and GitHub knowledge
-│
-└── STATUS: EXECUTING NEXT LEVEL...
+┌── EDUARDA@GITHUB:~ ──────────────────────┐
+│                                          │
+│  USER       : Eduarda Fernandes          │
+│  ROLE       : Software Engineering       │
+│  UNIVERSITY : UNICID                     │
+│  LOCATION   : São Paulo, Brazil          │
+│                                          │
+│  LANGUAGES  : Python | HTML | CSS        │
+│               SQL | BI                   │
+│                                          │
+│  TOOLS      : VS Code | Git | GitHub     │
+│               Power BI | Figma            │
+│                                          │
+│  STATUS     : Continuously Learning      │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 ---
 
-## ◈ 06. GITHUB ANALYTICS | PERFORMANCE
+## `04 // FEATURED PROJECTS`
 
-\<div align="center">
+<div align="center">
 
-\<img height="180" src="[https://github-readme-stats.vercel.app/api?username=eduardamansa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=eduardamansa\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)"/>
+<a href="https://github.com/eduardamansa/Conecta-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardamansa&repo=Conecta-&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF"/>
+</a>
 
-\<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamansa&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamansa\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+</div>
 
-\<br>\<br>
+### ◈ CONECTA+
 
-\<img width="70%" src="[https://streak-stats.demolab.com?user=eduardamansa&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=eduardamansa\&theme=tokyonight\&hide_border=true)"/>
+Projeto acadêmico de desenvolvimento web com foco em inclusão e conexão entre pessoas com e sem deficiência.
 
-\<br>\<br>
+**Technologies:** HTML • CSS • GitHub
 
-\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=eduardamansa&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=eduardamansa\&bg_color=0D1117\&color=00E5FF\&line=7C3AED\&point=FFFFFF\&area=true\&hide_border=true)"/>
+### ◈ INCLUI+ | SMART CANE
 
-\</div>
+Projeto acadêmico de inovação tecnológica: desenvolvimento de uma bengala inteligente de baixo custo para auxiliar pessoas com deficiência visual na identificação de obstáculos.
 
----
-
-## ◈ 07. GITHUB TROPHIES | ACHIEVEMENTS
-
-\<div align="center">
-
-\<img width="95%" src="[https://github-profile-trophy.vercel.app/?username=eduardamansa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4](https://github-profile-trophy.vercel.app/?username=eduardamansa\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=8\&column=4)"/>
-
-\</div>
+**Technologies:** Sensores • Eletrônica • Tecnologia Assistiva
 
 ---
 
-## ◈ 08. CONTRIBUTION MATRIX | SNAKE ANIMATION
+## `05 // CURRENT OBJECTIVES`
 
-\<div align="center">
+```python
+class EduardaFernandes:
 
-\<img src="[https://raw.githubusercontent.com/eduardamansa/eduardamansa/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/eduardamansa/eduardamansa/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake Animation"/>
+    def __init__(self):
+        self.focus = [
+            "Improve Python programming",
+            "Study SQL and Database Modeling",
+            "Explore Business Intelligence",
+            "Develop Web Applications",
+            "Expand Software Engineering knowledge",
+            "Build professional projects"
+        ]
 
-\</div>
+    def mission(self):
+        return "Turning knowledge into solutions."
+
+    def status(self):
+        return "ALWAYS LEARNING..."
+
+developer = EduardaFernandes()
+print(developer.mission())
+```
+
+<details>
+<summary> <b>▶ VIEW CURRENT MISSION</b> </summary>
+
+- [x] Start Software Engineering journey
+- [x] Develop academic technology projects
+- [x] Explore Python programming
+- [x] Build a GitHub portfolio
+- [ ] Improve programming logic
+- [ ] Deepen database knowledge
+- [ ] Develop more complete applications
+- [ ] Gain experience in the technology industry
+
+</details>
 
 ---
 
-## ◈ 09. CONNECT WITH ME | NETWORK
+## `06 // GITHUB ANALYTICS`
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://www.linkedin.com/in/eduardamansa/](https://www.linkedin.com/in/eduardamansa/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eduardamansa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true"/>
 
-\<a href="[https://github.com/eduardamansa](https://github.com/eduardamansa)">
-\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamansa&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9"/>
 
-\</div>
+<img width="70%" src="https://streak-stats.demolab.com?user=eduardamansa&theme=tokyonight&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+
+</div>
 
 ---
 
-\<div align="center">
+## `07 // CONTRIBUTION ACTIVITY`
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:020617&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,100:020617\&height=120\&section=footer)"/>
+<div align="center">
 
-### `SYSTEM STATUS: ALWAYS EVOLVING`
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardamansa&bg_color=020617&color=00E5FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH"/>
 
-**"Every line of code is another step towards something bigger."**
+</div>
 
-\<sub>Designed & Developed by Eduarda Fernandes | 2026\</sub>
+---
 
-\<img src="[https://komarev.com/ghpvc/?username=eduardamansa&style=flat-square&color=06B6D4&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=eduardamansa\&style=flat-square\&color=06B6D4\&label=PROFILE+VIEWS)"/>
+## `08 // GITHUB TROPHIES`
 
-\</div>
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=eduardamansa&theme
